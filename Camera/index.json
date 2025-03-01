@@ -1,10 +1,9 @@
 {
-	"index": [
-		{
-			"symbol": "DcS",
-			"name": "Dynamic Camera Shake",
-			"short_description": "Shake the camera based on in-game events like explosions or impact"
-
-		}
-	]
+    "index": [
+        {
+            "symbol": "DcS",
+            "name": "Dynamic Camera Shake",
+            "short_description": "Shake the camera based on in-game events like explosions or impact"
+        }
+    ]
 }

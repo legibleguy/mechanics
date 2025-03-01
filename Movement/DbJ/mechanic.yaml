@@ -1,5 +1,7 @@
 mechanic:
-    symbol: "DbJ"
-    name: "Double Jump"
-    short_description: "Jump twice to make movement more interesting"
-    long_description: "Yeah."
+  symbol: "DbJ"
+  name: "Double Jump"
+  category: "Movement"
+
+  short_description: "Jump twice to make movement more interesting"
+  long_description: "Yeah."
