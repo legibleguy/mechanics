@@ -1,9 +1,0 @@
-mechanic:
-  symbol: "DbJ"
-  name: "Double Jump"
-  category: "Movement"
-  long_description: "Uh-huh."
-  short_description: "Jump twice to make movement more interesting"
-  solved_problems: "Yep."
-  examples:
-    - "Definitely, dude."

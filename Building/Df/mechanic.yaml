@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Df
+  name: Defensive Fortification
+  category: Building
+  long_description: Allows players to strengthen structures for defense against attacks.
+    Used in tower defense games like They Are Billions.
+  short_description: Strengthen structures for defense.
+  solved_problems: Enhances survivability during assaults.
+  examples:
+  - 'They Are Billions: Build fortifications to withstand hordes.'
+  - Other strategy games incorporate fortification mechanics.

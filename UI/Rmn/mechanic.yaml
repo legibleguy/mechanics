@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rmn
+  name: Radial Menus
+  category: UI
+  long_description: Uses a circular menu for quick selection of options. Popularized
+    by Borderlands 2.
+  short_description: Circular menu for option selection.
+  solved_problems: Simplifies navigation of multiple options.
+  examples:
+  - 'Borderlands 2: Radial menus for weapon and item selection.'
+  - Other games employ radial interfaces.

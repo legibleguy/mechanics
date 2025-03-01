@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Ow",
+      "name": "Open World",
+      "short_description": "Seamless, expansive environments."
+    },
+    {
+      "symbol": "Ft",
+      "name": "Fast Travel",
+      "short_description": "Instant travel between known points."
+    },
+    {
+      "symbol": "Dsc",
+      "name": "Discovery",
+      "short_description": "Uncover hidden locations and secrets."
+    },
+    {
+      "symbol": "Sa",
+      "name": "Secret Areas",
+      "short_description": "Hidden areas with rewards."
+    },
+    {
+      "symbol": "Me",
+      "name": "Map Expansion",
+      "short_description": "Progressively reveal the game world."
+    }
+  ]
 }

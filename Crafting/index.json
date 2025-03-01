@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Rec",
+      "name": "Recipe System",
+      "short_description": "Craft items using predefined recipes."
+    },
+    {
+      "symbol": "McR",
+      "name": "Modular Crafting",
+      "short_description": "Customize items with interchangeable parts."
+    },
+    {
+      "symbol": "Rc",
+      "name": "Resource Combination",
+      "short_description": "Combine resources to craft items."
+    },
+    {
+      "symbol": "Cus",
+      "name": "Customization",
+      "short_description": "Modify items to suit your style."
+    },
+    {
+      "symbol": "UpG",
+      "name": "Upgrading",
+      "short_description": "Enhance items with upgrades."
+    }
+  ]
 }

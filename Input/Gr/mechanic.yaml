@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Gr
+  name: Gesture Recognition
+  category: Input
+  long_description: Interprets physical gestures as game commands, enhancing interactive
+    gameplay. Seen in Just Dance.
+  short_description: Use gestures to control actions.
+  solved_problems: Creates an immersive, active gameplay experience.
+  examples:
+  - 'Just Dance: Recognizes player movements for scoring.'
+  - Various interactive titles use gesture recognition.

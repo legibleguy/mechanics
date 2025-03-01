@@ -1,0 +1,11 @@
+mechanic:
+  symbol: De
+  name: Destructible Environments
+  category: Physics
+  long_description: 'Allows parts of the game world to be damaged or destroyed, increasing
+    interactivity. Seen in Red Faction: Guerrilla.'
+  short_description: Environmental elements that can be destroyed.
+  solved_problems: Creates dynamic battlefields.
+  examples:
+  - 'Red Faction: Guerrilla: Destructible structures.'
+  - Other shooters incorporate destructible elements.

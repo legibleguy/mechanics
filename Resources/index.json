@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Rgh",
+      "name": "Resource Gathering",
+      "short_description": "Collect raw materials."
+    },
+    {
+      "symbol": "Im",
+      "name": "Inventory Management",
+      "short_description": "Organize collected items."
+    },
+    {
+      "symbol": "Cm",
+      "name": "Crafting Materials",
+      "short_description": "Materials for crafting items."
+    },
+    {
+      "symbol": "Eb",
+      "name": "Economy Balancing",
+      "short_description": "Balance resource availability and cost."
+    },
+    {
+      "symbol": "Ur",
+      "name": "Upgrade Resources",
+      "short_description": "Special resources for upgrades."
+    }
+  ]
 }

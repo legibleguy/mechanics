@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Blk
+  name: Block
+  category: Actions
+  long_description: 'Allows players to defend against incoming attacks using a shield
+    or weapon. Seen in titles like Batman: Arkham series.'
+  short_description: Defensive maneuver to mitigate damage.
+  solved_problems: Reduces damage from enemy attacks.
+  examples:
+  - 'Batman: Arkham series: Blocking enemy strikes with gadgets.'
+  - Various fighting games incorporate blocking mechanics.

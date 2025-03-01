@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Mmi
+  name: Minimap
+  category: UI
+  long_description: Provides a small map overlay to help with navigation. Widely used
+    in Grand Theft Auto V.
+  short_description: Miniature map for navigation.
+  solved_problems: Assists in orientation and strategic planning.
+  examples:
+  - 'GTA V: Minimap for tracking objectives.'
+  - Other open-world games use minimaps.

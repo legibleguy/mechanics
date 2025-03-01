@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Vc
+  name: Voice Commands
+  category: Audio
+  long_description: Allows players to issue commands via voice, enhancing interactivity.
+    Utilized in Tom Clancy's EndWar.
+  short_description: Use voice to control in-game actions.
+  solved_problems: Introduces an alternative interaction method.
+  examples:
+  - 'EndWar: Commands issued through voice inputs.'
+  - Some strategy games integrate voice controls.

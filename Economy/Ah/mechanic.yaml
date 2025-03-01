@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ah
+  name: Auction House
+  category: Economy
+  long_description: Provides a marketplace where players can bid on items. Featured
+    in World of Warcraft.
+  short_description: Marketplace for player auctions.
+  solved_problems: Facilitates player-driven economies.
+  examples:
+  - 'World of Warcraft: Auction House for rare items.'
+  - Other MMOs implement auction systems.

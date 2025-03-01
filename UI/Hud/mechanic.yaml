@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Hud
+  name: HUD
+  category: UI
+  long_description: Displays vital game information on-screen, such as health and
+    ammo. A staple in Call of Duty.
+  short_description: On-screen game information display.
+  solved_problems: Keeps players informed of critical stats.
+  examples:
+  - 'Call of Duty: Comprehensive HUD during combat.'
+  - Many shooters utilize detailed HUDs.

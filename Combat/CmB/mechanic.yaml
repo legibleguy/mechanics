@@ -1,0 +1,11 @@
+mechanic:
+  symbol: CmB
+  name: Combo System
+  category: Combat
+  long_description: Enables chaining attacks into fluid combos, providing depth to
+    melee combat. Signature in Devil May Cry.
+  short_description: Chain attacks into combos.
+  solved_problems: Rewards skillful play with dynamic attack sequences.
+  examples:
+  - 'Devil May Cry: Stylish combo attacks.'
+  - Action games use combo systems for dynamic combat.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Mc
+  name: Modular Construction
+  category: Building
+  long_description: Enables building with interchangeable components for flexible
+    design. Seen in Fortnite's Save the World mode.
+  short_description: Flexible building with modular parts.
+  solved_problems: Simplifies complex construction through pre-made modules.
+  examples:
+  - 'Fortnite: Build structures with modular pieces.'
+  - Other titles use similar construction systems.

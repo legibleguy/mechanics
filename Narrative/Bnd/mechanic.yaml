@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Bnd
+  name: Branching Dialogue
+  category: Narrative
+  long_description: Provides players with dialogue choices that influence story outcomes.
+    Central to the Mass Effect series.
+  short_description: Dialogue choices that affect the story.
+  solved_problems: Enhances replayability through multiple outcomes.
+  examples:
+  - 'Mass Effect: Branching dialogue impacting narrative paths.'
+  - Other RPGs use dialogue trees.

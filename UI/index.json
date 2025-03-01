@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Hud",
+      "name": "HUD",
+      "short_description": "On-screen game information display."
+    },
+    {
+      "symbol": "Rmn",
+      "name": "Radial Menus",
+      "short_description": "Circular menu for option selection."
+    },
+    {
+      "symbol": "Mmi",
+      "name": "Minimap",
+      "short_description": "Miniature map for navigation."
+    },
+    {
+      "symbol": "Cpr",
+      "name": "Contextual Prompts",
+      "short_description": "On-screen action prompts."
+    },
+    {
+      "symbol": "Dt",
+      "name": "Dynamic Tooltips",
+      "short_description": "Real-time detailed information popups."
+    }
+  ]
 }

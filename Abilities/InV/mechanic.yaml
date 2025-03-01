@@ -1,0 +1,12 @@
+mechanic:
+  symbol: InV
+  name: Invisibility
+  category: Abilities
+  long_description: Allows the player to become unseen, enabling stealth approaches
+    and avoiding enemy detection. Featured in games like Metal Gear Solid and Splinter
+    Cell.
+  short_description: Become unseen to stealth past enemies.
+  solved_problems: Helps players bypass direct combat encounters.
+  examples:
+  - 'Metal Gear Solid: Used for sneaking past guards.'
+  - 'Splinter Cell: Emphasizes stealth and hidden movement.'

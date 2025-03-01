@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Rp",
+      "name": "Ragdoll Physics",
+      "short_description": "Realistic physics-based body movement."
+    },
+    {
+      "symbol": "De",
+      "name": "Destructible Environments",
+      "short_description": "Environmental elements that can be destroyed."
+    },
+    {
+      "symbol": "Gm",
+      "name": "Gravity Manipulation",
+      "short_description": "Alter gameplay through gravity changes."
+    },
+    {
+      "symbol": "Rlc",
+      "name": "Realistic Collision",
+      "short_description": "Accurate physical collision simulation."
+    },
+    {
+      "symbol": "Fd",
+      "name": "Fluid Dynamics",
+      "short_description": "Realistic simulation of liquids."
+    }
+  ]
 }

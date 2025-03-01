@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ft
+  name: Fast Travel
+  category: Exploration
+  long_description: Allows players to quickly move between discovered locations. Widely
+    used in Skyrim.
+  short_description: Instant travel between known points.
+  solved_problems: Reduces travel time across large maps.
+  examples:
+  - 'Skyrim: Fast travel between waypoints.'
+  - Many RPGs include fast travel systems.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Vch
+  name: Voice Chat
+  category: Multiplayer
+  long_description: Enables real-time voice communication between players. Popular
+    in Among Us.
+  short_description: Real-time voice communication.
+  solved_problems: Facilitates teamwork and social interaction.
+  examples:
+  - 'Among Us: Voice chat to coordinate strategies.'
+  - Other multiplayer games support voice communication.

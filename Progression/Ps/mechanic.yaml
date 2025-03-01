@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ps
+  name: Perk System
+  category: Progression
+  long_description: Grants unique bonuses or abilities that enhance gameplay. Prominent
+    in the Fallout series.
+  short_description: Unique bonuses for character builds.
+  solved_problems: Allows specialization and varied playstyles.
+  examples:
+  - 'Fallout: Perks improve combat and skills.'
+  - Other games use perks for customization.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ch
+  name: Critical Hits
+  category: Randomness
+  long_description: Occasionally delivers extra damage based on chance. Common in
+    Diablo II.
+  short_description: Chance-based extra damage.
+  solved_problems: Introduces risk-reward dynamics in combat.
+  examples:
+  - 'Diablo II: Critical hits change battle outcomes.'
+  - Other RPGs implement critical hit mechanics.

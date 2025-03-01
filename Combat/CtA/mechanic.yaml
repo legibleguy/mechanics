@@ -1,0 +1,11 @@
+mechanic:
+  symbol: CtA
+  name: Counter Attack
+  category: Combat
+  long_description: 'Allows players to counter enemy attacks with precise timing,
+    turning defense into offense. Seen in Sekiro: Shadows Die Twice.'
+  short_description: Counter enemy attacks effectively.
+  solved_problems: Rewards timing and precision in combat.
+  examples:
+  - 'Sekiro: Well-timed counters against enemies.'
+  - Other action titles employ counter mechanics.

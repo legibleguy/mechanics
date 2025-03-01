@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Lo
+  name: Lock-On
+  category: Camera
+  long_description: Enables the camera to focus on a target during combat, streamlining
+    attacks. Popular in Dark Souls and Twilight Princess.
+  short_description: Camera focuses on combat targets.
+  solved_problems: Aids in tracking moving targets.
+  examples:
+  - 'Dark Souls: Lock-on for precise combat.'
+  - 'Twilight Princess: Enhanced targeting mechanics.'

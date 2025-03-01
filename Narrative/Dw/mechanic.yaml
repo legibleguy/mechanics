@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dw
+  name: Dialogue Wheel
+  category: Narrative
+  long_description: Presents a radial menu for selecting dialogue options, simplifying
+    complex interactions. Popularized by The Walking Dead.
+  short_description: Radial menu for dialogue selection.
+  solved_problems: Streamlines conversation choices.
+  examples:
+  - 'The Walking Dead: Dialogue wheel for quick responses.'
+  - Other narrative games implement similar systems.

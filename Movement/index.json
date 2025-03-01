@@ -1,9 +1,29 @@
 {
-	"index": [
-		{
-			"symbol": "DbJ",
-			"name": "Double Jump",
-			"short_description": "Jump twice to make movement more interesting"
-		}
-	]
+  "index": [
+    {
+      "symbol": "Dj",
+      "name": "Double Jump",
+      "short_description": "Perform a second jump mid-air."
+    },
+    {
+      "symbol": "Wr",
+      "name": "Wall Run",
+      "short_description": "Run along walls for dynamic traversal."
+    },
+    {
+      "symbol": "Ds",
+      "name": "Dash",
+      "short_description": "Quick burst of speed."
+    },
+    {
+      "symbol": "Gl",
+      "name": "Glide",
+      "short_description": "Slow descent by gliding."
+    },
+    {
+      "symbol": "Tp",
+      "name": "Teleport",
+      "short_description": "Instantaneous relocation."
+    }
+  ]
 }

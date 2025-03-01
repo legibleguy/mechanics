@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rec
+  name: Recipe System
+  category: Crafting
+  long_description: Allows players to combine ingredients based on recipes to craft
+    items. A core mechanic in The Witcher 3.
+  short_description: Craft items using predefined recipes.
+  solved_problems: Simplifies item creation with clear guidelines.
+  examples:
+  - 'The Witcher 3: Detailed alchemy recipes.'
+  - Other RPGs use recipe systems for crafting.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Cm
+  name: Crafting Materials
+  category: Resources
+  long_description: Specific resources used in crafting recipes. Common in Fallout
+    4.
+  short_description: Materials for crafting items.
+  solved_problems: Defines the resource economy for crafting.
+  examples:
+  - 'Fallout 4: Collecting materials for weapon upgrades.'
+  - Various RPGs use crafting materials.

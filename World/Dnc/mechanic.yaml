@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dnc
+  name: Day-Night Cycle
+  category: World
+  long_description: 'Simulates the passage of time with changing day and night. Central
+    to The Legend of Zelda: Breath of the Wild.'
+  short_description: Cycle between day and night.
+  solved_problems: Creates a dynamic and immersive world environment.
+  examples:
+  - 'Breath of the Wild: Realistic day-night transitions.'
+  - Other open-world games simulate time cycles.

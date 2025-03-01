@@ -1,0 +1,11 @@
+mechanic:
+  symbol: CvR
+  name: Cover System
+  category: AI
+  long_description: Allows AI to take cover during combat to enhance tactical gameplay.
+    Prominent in Gears of War.
+  short_description: AI takes cover during combat.
+  solved_problems: Improves enemy AI tactics in combat scenarios.
+  examples:
+  - 'Gears of War: AI uses cover to avoid damage.'
+  - Other shooters incorporate cover systems for enemy behavior.

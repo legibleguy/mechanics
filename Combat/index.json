@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "CsH",
+      "name": "Cover Shooting",
+      "short_description": "Shoot while in cover."
+    },
+    {
+      "symbol": "CmB",
+      "name": "Combo System",
+      "short_description": "Chain attacks into combos."
+    },
+    {
+      "symbol": "CtA",
+      "name": "Counter Attack",
+      "short_description": "Counter enemy attacks effectively."
+    },
+    {
+      "symbol": "QtC",
+      "name": "Quick Time Combat",
+      "short_description": "QTE integrated combat sequences."
+    },
+    {
+      "symbol": "ChG",
+      "name": "Charge Attack",
+      "short_description": "Build and release powerful attacks."
+    }
+  ]
 }

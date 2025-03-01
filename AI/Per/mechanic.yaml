@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Per
+  name: Perception
+  category: AI
+  long_description: Simulates senses in AI, enabling detection of player actions.
+    Used in games like F.E.A.R.
+  short_description: AI detection of player actions.
+  solved_problems: Enhances realism in enemy behavior and stealth mechanics.
+  examples:
+  - 'F.E.A.R.: Enemies detect subtle player movements.'
+  - Stealth games rely on refined AI perception.

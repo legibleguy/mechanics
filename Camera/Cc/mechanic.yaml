@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Cc
+  name: Cinematic Camera
+  category: Camera
+  long_description: Provides pre-set camera angles and movements to deliver cinematic
+    storytelling. Employed in the Uncharted series.
+  short_description: Cinematic camera angles and movements.
+  solved_problems: Enhances narrative and visual presentation.
+  examples:
+  - 'Uncharted: Cinematic sequences during story moments.'
+  - Other adventure games adopt similar techniques.

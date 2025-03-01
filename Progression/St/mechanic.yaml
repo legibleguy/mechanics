@@ -1,0 +1,11 @@
+mechanic:
+  symbol: St
+  name: Skill Trees
+  category: Progression
+  long_description: Offers branching paths for character abilities and improvements.
+    Seen in Diablo III.
+  short_description: Branching upgrade paths for abilities.
+  solved_problems: Allows customized character development.
+  examples:
+  - 'Diablo III: Extensive skill trees for build variety.'
+  - Other RPGs implement similar systems.

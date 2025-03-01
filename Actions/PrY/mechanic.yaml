@@ -1,0 +1,11 @@
+mechanic:
+  symbol: PrY
+  name: Parry
+  category: Actions
+  long_description: Enables a timed counteraction to enemy attacks, turning defense
+    into offense. Prominent in Dark Souls and Sekiro.
+  short_description: Timed counter to enemy attacks.
+  solved_problems: Allows players to interrupt enemy attacks and retaliate.
+  examples:
+  - 'Dark Souls: Parry to create openings for counterattacks.'
+  - 'Sekiro: Precision parrying for effective counters.'

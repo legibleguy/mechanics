@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Bp
+  name: Blueprints
+  category: Building
+  long_description: Provides pre-designed plans that players can use to construct
+    buildings efficiently. Notable in Fallout 4.
+  short_description: Pre-designed construction plans.
+  solved_problems: Speeds up building by offering ready-made designs.
+  examples:
+  - 'Fallout 4: Blueprints simplify settlement construction.'
+  - Other games use blueprint systems for building.

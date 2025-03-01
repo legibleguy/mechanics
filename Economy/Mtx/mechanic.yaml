@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Mtx
+  name: Microtransactions
+  category: Economy
+  long_description: Enables players to purchase in-game items with real money. Widely
+    used in Fortnite.
+  short_description: Real money purchases for in-game items.
+  solved_problems: Generates revenue through cosmetic and functional items.
+  examples:
+  - 'Fortnite: In-game store for skins and emotes.'
+  - Mobile games frequently use microtransactions.

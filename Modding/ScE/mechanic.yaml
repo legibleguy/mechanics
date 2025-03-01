@@ -1,0 +1,11 @@
+mechanic:
+  symbol: ScE
+  name: Script Extensibility
+  category: Modding
+  long_description: Enables modification of game behavior through custom scripts.
+    Widely seen in Skyrim modding.
+  short_description: Extend game functionality with custom scripts.
+  solved_problems: Allows deep customization and new gameplay experiences.
+  examples:
+  - 'Skyrim: Extensive modding with script extenders.'
+  - Other moddable games support scripting.

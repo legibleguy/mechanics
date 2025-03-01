@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ld
+  name: Loot Drops
+  category: Randomness
+  long_description: Randomly provides items upon defeating enemies or completing challenges.
+    Signature in Borderlands.
+  short_description: Random item rewards.
+  solved_problems: Adds excitement and replayability through randomness.
+  examples:
+  - 'Borderlands: Randomized loot drops with varying rarity.'
+  - Other action RPGs feature loot systems.

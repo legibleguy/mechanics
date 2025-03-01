@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Xp
+  name: Experience Points
+  category: Progression
+  long_description: Grants points for achievements that contribute to character growth.
+    A staple in World of Warcraft.
+  short_description: Earn points to grow stronger.
+  solved_problems: Provides a measurable path for character improvement.
+  examples:
+  - 'World of Warcraft: XP gained from quests and battles.'
+  - RPGs widely use experience systems.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dg
+  name: Dodge
+  category: Actions
+  long_description: Enables quick evasion maneuvers to avoid attacks. Widely used
+    in games like Dark Souls and Assassin's Creed.
+  short_description: Quick evasion to avoid attacks.
+  solved_problems: Helps players evade enemy strikes.
+  examples:
+  - 'Dark Souls: Rolling dodge to avoid enemy hits.'
+  - 'Assassin''s Creed: Agile dodging during combat.'

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Cus
+  name: Customization
+  category: Crafting
+  long_description: Allows players to modify the appearance or stats of items. Prominent
+    in Skyrim.
+  short_description: Modify items to suit your style.
+  solved_problems: Provides personalization and strategic variety.
+  examples:
+  - 'Skyrim: Customizing weapons and armor.'
+  - Many RPGs include item customization.

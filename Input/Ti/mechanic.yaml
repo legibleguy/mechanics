@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ti
+  name: Touch Input
+  category: Input
+  long_description: Utilizes touchscreen interactions to control game elements. Widely
+    used in mobile games like Fruit Ninja.
+  short_description: Interact via touchscreen.
+  solved_problems: Provides intuitive and direct control.
+  examples:
+  - 'Fruit Ninja: Touch-based slicing mechanics.'
+  - Many mobile games rely on touch input.

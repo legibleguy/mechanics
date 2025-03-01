@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Dnc",
+      "name": "Day-Night Cycle",
+      "short_description": "Cycle between day and night."
+    },
+    {
+      "symbol": "Ws",
+      "name": "Weather Systems",
+      "short_description": "Dynamic weather effects."
+    },
+    {
+      "symbol": "Owm",
+      "name": "Open World Map",
+      "short_description": "Detailed map of a large world."
+    },
+    {
+      "symbol": "Eh",
+      "name": "Environmental Hazards",
+      "short_description": "Natural hazards in the game world."
+    },
+    {
+      "symbol": "DEc",
+      "name": "Dynamic Ecosystem",
+      "short_description": "Living, responsive ecosystems."
+    }
+  ]
 }

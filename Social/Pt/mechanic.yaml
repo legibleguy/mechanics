@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Pt
+  name: Player Trading
+  category: Social
+  long_description: Enables players to exchange items directly. Seen in games like
+    EVE Online.
+  short_description: Trade items with other players.
+  solved_problems: Facilitates a player-driven economy.
+  examples:
+  - 'EVE Online: Trading system for spacecraft and modules.'
+  - MMORPGs often support player trading.

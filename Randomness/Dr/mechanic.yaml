@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dr
+  name: Dice Roll
+  category: Randomness
+  long_description: Uses random chance similar to rolling dice to determine outcomes.
+    Found in Mario Party.
+  short_description: Random outcome determination.
+  solved_problems: Adds elements of chance to gameplay.
+  examples:
+  - 'Mario Party: Dice rolls decide movement and rewards.'
+  - Party games often use chance mechanics.

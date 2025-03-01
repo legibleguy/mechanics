@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Pf
+  name: Pathfinding
+  category: AI
+  long_description: Enables non-player characters (NPCs) to navigate complex environments
+    efficiently. Crucial in strategy and simulation games like Age of Empires.
+  short_description: Efficient NPC navigation.
+  solved_problems: Improves NPC movement in complex maps.
+  examples:
+  - 'Age of Empires: NPCs navigate battlefields using pathfinding algorithms.'
+  - Real-time strategy games use similar systems.

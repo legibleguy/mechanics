@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ur
+  name: Upgrade Resources
+  category: Resources
+  long_description: Provides special resources dedicated to upgrading equipment or
+    abilities. Found in Borderlands.
+  short_description: Special resources for upgrades.
+  solved_problems: Encourages strategic resource use for enhancement.
+  examples:
+  - 'Borderlands: Upgrade components for weapons.'
+  - Other games incorporate upgrade resources.

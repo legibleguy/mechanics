@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Cst
+  name: Customization Tools
+  category: Modding
+  long_description: Provides in-game tools for customizing game elements. Featured
+    in The Sims series.
+  short_description: Tools for in-game customization.
+  solved_problems: Empowers players to tailor game content.
+  examples:
+  - 'The Sims: Extensive customization of characters and homes.'
+  - Other simulation games offer similar tools.

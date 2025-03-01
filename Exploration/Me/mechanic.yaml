@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Me
+  name: Map Expansion
+  category: Exploration
+  long_description: Mechanics that reveal new parts of the map as the player progresses.
+    Present in Red Dead Redemption 2.
+  short_description: Progressively reveal the game world.
+  solved_problems: Keeps the exploration experience fresh and evolving.
+  examples:
+  - 'Red Dead Redemption 2: Map grows as missions progress.'
+  - Some RPGs feature map expansion mechanics.

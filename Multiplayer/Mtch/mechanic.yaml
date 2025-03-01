@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Mtch
+  name: Matchmaking
+  category: Multiplayer
+  long_description: Automatically pairs players of similar skill levels for balanced
+    matches. Integral to Overwatch.
+  short_description: Automatic player pairing.
+  solved_problems: Ensures fair and balanced multiplayer games.
+  examples:
+  - 'Overwatch: Skill-based matchmaking.'
+  - Other competitive games use matchmaking systems.

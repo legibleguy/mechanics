@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Bnd",
+      "name": "Branching Dialogue",
+      "short_description": "Dialogue choices that affect the story."
+    },
+    {
+      "symbol": "Dw",
+      "name": "Dialogue Wheel",
+      "short_description": "Radial menu for dialogue selection."
+    },
+    {
+      "symbol": "Nls",
+      "name": "Non-linear Story",
+      "short_description": "Experience the story out of order."
+    },
+    {
+      "symbol": "Env",
+      "name": "Environmental Storytelling",
+      "short_description": "Story told through environment."
+    },
+    {
+      "symbol": "Lrc",
+      "name": "Lore Collection",
+      "short_description": "Collect lore to uncover history."
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: As
+  name: Adaptive Soundtrack
+  category: Audio
+  long_description: Modifies the soundtrack dynamically to match gameplay intensity.
+    Seen in Left 4 Dead.
+  short_description: Soundtrack adapts to game intensity.
+  solved_problems: Keeps the audio experience aligned with gameplay.
+  examples:
+  - 'Left 4 Dead: Changes music based on player tension.'
+  - Other survival games use adaptive soundtracks.

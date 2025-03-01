@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rg
+  name: Regeneration
+  category: Abilities
+  long_description: Automatically restores health over time, encouraging aggressive
+    play with a safety net. Seen in Halo and Bioshock.
+  short_description: Health regenerates over time.
+  solved_problems: Reduces downtime and promotes continuous engagement.
+  examples:
+  - 'Halo: Shields regenerate after taking damage.'
+  - 'Bioshock: Health regeneration mechanics during gameplay.'

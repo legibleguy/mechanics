@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Wr
+  name: Wall Run
+  category: Movement
+  long_description: Enables players to run along vertical surfaces. Famously used
+    in Mirror's Edge.
+  short_description: Run along walls for dynamic traversal.
+  solved_problems: Facilitates agile navigation in urban environments.
+  examples:
+  - 'Mirror''s Edge: Wall running for acrobatic movement.'
+  - Action games incorporate wall run mechanics.

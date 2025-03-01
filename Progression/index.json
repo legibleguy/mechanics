@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Xp",
+      "name": "Experience Points",
+      "short_description": "Earn points to grow stronger."
+    },
+    {
+      "symbol": "St",
+      "name": "Skill Trees",
+      "short_description": "Branching upgrade paths for abilities."
+    },
+    {
+      "symbol": "Lu",
+      "name": "Leveling Up",
+      "short_description": "Advance levels to enhance abilities."
+    },
+    {
+      "symbol": "Ps",
+      "name": "Perk System",
+      "short_description": "Unique bonuses for character builds."
+    },
+    {
+      "symbol": "Ul",
+      "name": "Unlockables",
+      "short_description": "Additional content unlocked over time."
+    }
+  ]
 }

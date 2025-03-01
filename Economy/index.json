@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "IgC",
+      "name": "In-Game Currency",
+      "short_description": "Currency for in-game transactions."
+    },
+    {
+      "symbol": "TrD",
+      "name": "Trade System",
+      "short_description": "Exchange goods via trade."
+    },
+    {
+      "symbol": "Ah",
+      "name": "Auction House",
+      "short_description": "Marketplace for player auctions."
+    },
+    {
+      "symbol": "Mtx",
+      "name": "Microtransactions",
+      "short_description": "Real money purchases for in-game items."
+    },
+    {
+      "symbol": "Sd",
+      "name": "Supply and Demand",
+      "short_description": "Dynamic economic fluctuations."
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Nls
+  name: Non-linear Story
+  category: Narrative
+  long_description: Allows players to experience the story in a non-sequential manner,
+    promoting exploration. Seen in The Witcher 3.
+  short_description: Experience the story out of order.
+  solved_problems: Encourages exploration of multiple story paths.
+  examples:
+  - 'The Witcher 3: Non-linear narrative structure.'
+  - Other open-world RPGs embrace non-linearity.

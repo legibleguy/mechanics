@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rm
+  name: Rage Mode
+  category: Abilities
+  long_description: Boosts player abilities temporarily under high stress or damage,
+    common in action-adventure games like God of War.
+  short_description: Temporary power surge in combat.
+  solved_problems: Allows a comeback mechanic when players are overwhelmed.
+  examples:
+  - 'God of War: Rage mode enhances strength and speed.'
+  - 'Darksiders: Similar mechanics increase damage output under pressure.'

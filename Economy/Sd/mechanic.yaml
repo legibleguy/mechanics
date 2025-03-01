@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Sd
+  name: Supply and Demand
+  category: Economy
+  long_description: Simulates economic fluctuations based on player actions and market
+    conditions. Present in SimCity.
+  short_description: Dynamic economic fluctuations.
+  solved_problems: Reflects realistic market behavior.
+  examples:
+  - 'SimCity: Market dynamics based on supply and demand.'
+  - Economic sims rely on similar mechanics.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rlc
+  name: Realistic Collision
+  category: Physics
+  long_description: Ensures physical interactions follow real-world collision dynamics.
+    Demonstrated in BeamNG.drive.
+  short_description: Accurate physical collision simulation.
+  solved_problems: Provides believable interactions between objects.
+  examples:
+  - 'BeamNG.drive: Realistic collision responses.'
+  - Simulation games rely on accurate collision physics.

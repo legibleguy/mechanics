@@ -1,0 +1,11 @@
+mechanic:
+  symbol: UpG
+  name: Upgrading
+  category: Crafting
+  long_description: Enables progressive enhancement of items or abilities through
+    resource investment. Seen in Borderlands.
+  short_description: Enhance items with upgrades.
+  solved_problems: Rewards continued investment in equipment.
+  examples:
+  - 'Borderlands: Upgrading weapons and gear.'
+  - Many action RPGs incorporate upgrade systems.

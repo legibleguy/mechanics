@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Pf",
+      "name": "Pathfinding",
+      "short_description": "Efficient NPC navigation."
+    },
+    {
+      "symbol": "Flk",
+      "name": "Flocking",
+      "short_description": "Coordinated group movement."
+    },
+    {
+      "symbol": "CvR",
+      "name": "Cover System",
+      "short_description": "AI takes cover during combat."
+    },
+    {
+      "symbol": "AaI",
+      "name": "Adaptive AI",
+      "short_description": "Dynamic adjustment of AI difficulty."
+    },
+    {
+      "symbol": "Per",
+      "name": "Perception",
+      "short_description": "AI detection of player actions."
+    }
+  ]
 }

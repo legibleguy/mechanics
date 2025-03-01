@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dm
+  name: Dynamic Music
+  category: Audio
+  long_description: 'Changes the musical score based on in-game actions or events.
+    A staple in The Legend of Zelda: Breath of the Wild.'
+  short_description: Music adapts to gameplay.
+  solved_problems: Enhances immersion by reflecting game intensity.
+  examples:
+  - 'Breath of the Wild: Music shifts with exploration and combat.'
+  - Other open-world games employ dynamic music.

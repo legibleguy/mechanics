@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ws
+  name: Weather Systems
+  category: World
+  long_description: Introduces dynamic weather that affects gameplay and atmosphere.
+    Prominent in Red Dead Redemption 2.
+  short_description: Dynamic weather effects.
+  solved_problems: Impacts visibility and environmental interactions.
+  examples:
+  - 'Red Dead Redemption 2: Changing weather impacting gameplay.'
+  - Other titles use weather to enhance realism.

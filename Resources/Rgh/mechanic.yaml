@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rgh
+  name: Resource Gathering
+  category: Resources
+  long_description: Allows players to collect raw materials for crafting and upgrades.
+    Essential in Minecraft.
+  short_description: Collect raw materials.
+  solved_problems: Facilitates crafting and progression through material collection.
+  examples:
+  - 'Minecraft: Gathering wood, stone, and ore.'
+  - Survival games emphasize resource collection.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Env
+  name: Environmental Storytelling
+  category: Narrative
+  long_description: Conveys narrative elements through the game world itself without
+    explicit dialogue. Used in Bioshock.
+  short_description: Story told through environment.
+  solved_problems: Immerses players in the lore without overt exposition.
+  examples:
+  - 'Bioshock: Environmental details reveal backstory.'
+  - Other games use setting to tell stories.

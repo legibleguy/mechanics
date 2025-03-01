@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Mtc
+  name: Motion Controls
+  category: Input
+  long_description: Uses physical movement to control game actions, popularized by
+    the Wii Sports series.
+  short_description: Control gameplay with physical motion.
+  solved_problems: Enhances immersion through active participation.
+  examples:
+  - 'Wii Sports: Motion controls for sports actions.'
+  - Other motion-enabled games use similar mechanics.

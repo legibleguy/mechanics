@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Ci",
+      "name": "Combo Input",
+      "short_description": "Execute special moves with button sequences."
+    },
+    {
+      "symbol": "Mtc",
+      "name": "Motion Controls",
+      "short_description": "Control gameplay with physical motion."
+    },
+    {
+      "symbol": "Ti",
+      "name": "Touch Input",
+      "short_description": "Interact via touchscreen."
+    },
+    {
+      "symbol": "Vi",
+      "name": "Voice Input",
+      "short_description": "Control gameplay with voice commands."
+    },
+    {
+      "symbol": "Gr",
+      "name": "Gesture Recognition",
+      "short_description": "Use gestures to control actions."
+    }
+  ]
 }

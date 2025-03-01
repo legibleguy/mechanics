@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Shb
+  name: Social Hubs
+  category: Social
+  long_description: Designated areas where players can meet and interact. Notable
+    in Destiny 2.
+  short_description: Central locations for player interaction.
+  solved_problems: Creates communal spaces within the game world.
+  examples:
+  - 'Destiny 2: The Tower as a social hub.'
+  - Many MMOs provide social gathering areas.

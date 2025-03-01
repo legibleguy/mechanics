@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Zn
+  name: Zoning
+  category: Building
+  long_description: 'Involves designating areas for specific functions, common in
+    city-building games like SimCity and Cities: Skylines.'
+  short_description: Designate areas for different functions.
+  solved_problems: Helps manage urban planning and resource allocation.
+  examples:
+  - 'SimCity: Zoning for residential and commercial areas.'
+  - 'Cities: Skylines: Detailed zoning mechanics.'

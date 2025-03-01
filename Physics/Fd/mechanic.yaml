@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Fd
+  name: Fluid Dynamics
+  category: Physics
+  long_description: Simulates the movement and interaction of liquids for enhanced
+    realism. Used in the Battlefield series.
+  short_description: Realistic simulation of liquids.
+  solved_problems: Adds realism to environmental interactions.
+  examples:
+  - 'Battlefield: Fluid dynamics in explosion effects.'
+  - Other games incorporate fluid simulations.

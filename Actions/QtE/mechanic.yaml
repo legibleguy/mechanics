@@ -1,0 +1,11 @@
+mechanic:
+  symbol: QtE
+  name: Quick Time Event
+  category: Actions
+  long_description: Triggers time-sensitive actions requiring rapid button presses,
+    enhancing cinematic moments. Common in God of War and Heavy Rain.
+  short_description: Timed button prompts for cinematic actions.
+  solved_problems: Engages players in narrative sequences with interactive moments.
+  examples:
+  - 'God of War: QTEs during boss battles.'
+  - 'Heavy Rain: Interactive cutscenes relying on QTEs.'

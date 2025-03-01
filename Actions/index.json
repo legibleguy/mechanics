@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Dg",
+      "name": "Dodge",
+      "short_description": "Quick evasion to avoid attacks."
+    },
+    {
+      "symbol": "Blk",
+      "name": "Block",
+      "short_description": "Defensive maneuver to mitigate damage."
+    },
+    {
+      "symbol": "PrY",
+      "name": "Parry",
+      "short_description": "Timed counter to enemy attacks."
+    },
+    {
+      "symbol": "QtE",
+      "name": "Quick Time Event",
+      "short_description": "Timed button prompts for cinematic actions."
+    },
+    {
+      "symbol": "Int",
+      "name": "Interact",
+      "short_description": "Contextual actions for interacting with the world."
+    }
+  ]
 }

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Sh
+  name: Shield
+  category: Abilities
+  long_description: Provides temporary protection by absorbing damage. Prominent in
+    games like Halo and Destiny.
+  short_description: Temporary damage absorption.
+  solved_problems: Mitigates damage during critical combat moments.
+  examples:
+  - 'Halo: Energy shields absorb enemy fire.'
+  - 'Destiny: Shields offer extra defense in combat.'

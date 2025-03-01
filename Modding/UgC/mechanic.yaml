@@ -1,0 +1,11 @@
+mechanic:
+  symbol: UgC
+  name: User-Generated Content
+  category: Modding
+  long_description: Allows players to create and share their own content within the
+    game. Iconic in LittleBigPlanet.
+  short_description: Create and share custom content.
+  solved_problems: Extends game longevity through community creations.
+  examples:
+  - 'LittleBigPlanet: Players design their own levels.'
+  - Other sandbox games embrace user-generated content.

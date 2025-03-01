@@ -1,9 +1,0 @@
-mechanic:
-  symbol: "DcS"
-  category: "Camera"
-  name: "Dynamic Camera Shake"
-  short_description: "Shake the camera based on in-game events like explosions or impact"
-  long_description: "Yeah."
-  solved_problems: "Yep."
-  examples:
-    - "Definitely, dude."

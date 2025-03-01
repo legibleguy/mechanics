@@ -1,0 +1,11 @@
+mechanic:
+  symbol: QtC
+  name: Quick Time Combat
+  category: Combat
+  long_description: Integrates quick time events into combat sequences for dramatic
+    and interactive battles. Featured in God of War.
+  short_description: QTE integrated combat sequences.
+  solved_problems: Adds cinematic flair to combat.
+  examples:
+  - 'God of War: Quick time combat moments.'
+  - Narrative-driven games use similar mechanics.

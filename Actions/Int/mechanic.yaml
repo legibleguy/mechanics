@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Int
+  name: Interact
+  category: Actions
+  long_description: Context-sensitive actions that allow players to engage with the
+    environment. Found in open-world games like GTA V and Red Dead Redemption.
+  short_description: Contextual actions for interacting with the world.
+  solved_problems: Simplifies complex interactions into intuitive actions.
+  examples:
+  - 'GTA V: Interaction with vehicles and NPCs.'
+  - 'Red Dead Redemption: Contextual interactions in the environment.'

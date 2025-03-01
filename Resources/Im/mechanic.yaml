@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Im
+  name: Inventory Management
+  category: Resources
+  long_description: Enables players to organize and manage collected items. Prominent
+    in Resident Evil.
+  short_description: Organize collected items.
+  solved_problems: Helps manage limited carrying capacity.
+  examples:
+  - 'Resident Evil: Inventory puzzles and item management.'
+  - Many survival games focus on inventory management.

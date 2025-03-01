@@ -1,0 +1,11 @@
+mechanic:
+  symbol: PvP
+  name: PvP
+  category: Multiplayer
+  long_description: 'Facilitates competitive gameplay between players. Central to
+    Fortnite and Call of Duty: Warzone.'
+  short_description: Player versus player combat.
+  solved_problems: Encourages competitive strategies.
+  examples:
+  - 'Fortnite: Intense PvP battles.'
+  - 'Warzone: Fast-paced player combat.'

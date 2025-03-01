@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Eb
+  name: Economy Balancing
+  category: Resources
+  long_description: Manages the availability and cost of resources within the game.
+    Seen in SimCity.
+  short_description: Balance resource availability and cost.
+  solved_problems: Ensures a fair and challenging resource economy.
+  examples:
+  - 'SimCity: Balancing resources for city growth.'
+  - Economic sims rely on resource management.

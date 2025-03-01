@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Gm
+  name: Gravity Manipulation
+  category: Physics
+  long_description: Alters the gravitational force to affect gameplay, adding unique
+    puzzle and combat elements. Notable in Half-Life 2.
+  short_description: Alter gameplay through gravity changes.
+  solved_problems: Introduces innovative combat and puzzle challenges.
+  examples:
+  - 'Half-Life 2: Gravity gun mechanics.'
+  - Other games experiment with gravity manipulation.

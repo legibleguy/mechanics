@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dt
+  name: Dynamic Tooltips
+  category: UI
+  long_description: Shows detailed, real-time information about items or abilities.
+    Featured in World of Warcraft.
+  short_description: Real-time detailed information popups.
+  solved_problems: Helps players understand game mechanics and stats.
+  examples:
+  - 'World of Warcraft: Dynamic tooltips for gear stats.'
+  - Other RPGs use tooltips for clarity.

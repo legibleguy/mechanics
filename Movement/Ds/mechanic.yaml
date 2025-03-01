@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ds
+  name: Dash
+  category: Movement
+  long_description: Provides a quick burst of speed to cover short distances. Common
+    in titles like Bayonetta.
+  short_description: Quick burst of speed.
+  solved_problems: Allows rapid repositioning during combat or exploration.
+  examples:
+  - 'Bayonetta: Dash for evasive maneuvers.'
+  - Other action games use dash mechanics.

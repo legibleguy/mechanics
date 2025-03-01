@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rc
+  name: Resource Combination
+  category: Crafting
+  long_description: Requires players to combine various resources to create new items,
+    as seen in Minecraft.
+  short_description: Combine resources to craft items.
+  solved_problems: Encourages exploration and resource management.
+  examples:
+  - 'Minecraft: Combining blocks to craft tools.'
+  - Survival games use resource combination.

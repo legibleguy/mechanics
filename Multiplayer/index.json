@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Coop",
+      "name": "Co-op Play",
+      "short_description": "Play cooperatively with others."
+    },
+    {
+      "symbol": "PvP",
+      "name": "PvP",
+      "short_description": "Player versus player combat."
+    },
+    {
+      "symbol": "Mtch",
+      "name": "Matchmaking",
+      "short_description": "Automatic player pairing."
+    },
+    {
+      "symbol": "Spc",
+      "name": "Spectator Mode",
+      "short_description": "Watch games as a spectator."
+    },
+    {
+      "symbol": "Vch",
+      "name": "Voice Chat",
+      "short_description": "Real-time voice communication."
+    }
+  ]
 }

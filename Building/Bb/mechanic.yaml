@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Bb
+  name: Base Building
+  category: Building
+  long_description: Allows players to construct and customize their own bases or settlements.
+    Prominent in Fallout 4.
+  short_description: Construct and customize bases.
+  solved_problems: Offers creative freedom and strategic placement.
+  examples:
+  - 'Fallout 4: Settlement building mechanics.'
+  - Survival games like ARK also implement base building.

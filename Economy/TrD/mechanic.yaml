@@ -1,0 +1,11 @@
+mechanic:
+  symbol: TrD
+  name: Trade System
+  category: Economy
+  long_description: Allows players to exchange goods with NPCs or other players. Prominent
+    in EVE Online.
+  short_description: Exchange goods via trade.
+  solved_problems: Enhances player interaction and economic depth.
+  examples:
+  - 'EVE Online: Complex trading systems.'
+  - MMORPGs often include robust trade mechanics.

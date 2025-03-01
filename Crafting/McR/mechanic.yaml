@@ -1,0 +1,11 @@
+mechanic:
+  symbol: McR
+  name: Modular Crafting
+  category: Crafting
+  long_description: Enables customization by combining interchangeable parts. Notable
+    in Fallout 4's weapon crafting.
+  short_description: Customize items with interchangeable parts.
+  solved_problems: Enhances creativity in item customization.
+  examples:
+  - 'Fallout 4: Modular weapon crafting.'
+  - Other games allow for similar crafting systems.

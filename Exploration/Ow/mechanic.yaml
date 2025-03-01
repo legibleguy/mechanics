@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ow
+  name: Open World
+  category: Exploration
+  long_description: Provides a vast, seamless world for players to explore. Central
+    to Breath of the Wild.
+  short_description: Seamless, expansive environments.
+  solved_problems: Eliminates loading screens and promotes free exploration.
+  examples:
+  - 'Breath of the Wild: Massive open world.'
+  - 'GTA V: Open world design for exploration.'

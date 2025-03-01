@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Gs
+  name: Guild Systems
+  category: Social
+  long_description: Organizes players into groups or guilds for collaborative gameplay.
+    Prominent in Final Fantasy XIV.
+  short_description: Form and manage guilds.
+  solved_problems: Enhances team-based play and community building.
+  examples:
+  - 'Final Fantasy XIV: Robust guild and raid systems.'
+  - MMORPGs often feature guild mechanics.

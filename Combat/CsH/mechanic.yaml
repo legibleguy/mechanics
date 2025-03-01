@@ -1,0 +1,11 @@
+mechanic:
+  symbol: CsH
+  name: Cover Shooting
+  category: Combat
+  long_description: Combines shooting mechanics with cover systems, allowing players
+    to shoot from protected positions. Central to Gears of War.
+  short_description: Shoot while in cover.
+  solved_problems: Enhances tactical combat by integrating cover.
+  examples:
+  - 'Gears of War: Players shoot from behind cover.'
+  - Modern shooters often incorporate cover shooting.

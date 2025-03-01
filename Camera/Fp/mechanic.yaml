@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Fp
+  name: First-Person View
+  category: Camera
+  long_description: Offers an immersive perspective by placing the camera at the character's
+    viewpoint. Standard in Call of Duty.
+  short_description: Immersive first-person perspective.
+  solved_problems: Increases player immersion and situational awareness.
+  examples:
+  - 'Call of Duty: First-person shooting experience.'
+  - Many shooters use first-person view.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Eh
+  name: Environmental Hazards
+  category: World
+  long_description: Introduces natural dangers such as lava, quicksand, or toxic zones.
+    Seen in Minecraft.
+  short_description: Natural hazards in the game world.
+  solved_problems: Adds challenge and realism to exploration.
+  examples:
+  - 'Minecraft: Environmental hazards like lava and water.'
+  - Survival games incorporate hazardous terrain.

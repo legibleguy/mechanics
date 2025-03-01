@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Re
+  name: Random Events
+  category: Randomness
+  long_description: Triggers unexpected occurrences that alter gameplay dynamics.
+    Seen in Dwarf Fortress.
+  short_description: Unexpected in-game events.
+  solved_problems: Keeps gameplay unpredictable and engaging.
+  examples:
+  - 'Dwarf Fortress: Random events impact settlements.'
+  - Simulation games use random events to surprise players.

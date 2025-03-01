@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Bb",
+      "name": "Base Building",
+      "short_description": "Construct and customize bases."
+    },
+    {
+      "symbol": "Mc",
+      "name": "Modular Construction",
+      "short_description": "Flexible building with modular parts."
+    },
+    {
+      "symbol": "Zn",
+      "name": "Zoning",
+      "short_description": "Designate areas for different functions."
+    },
+    {
+      "symbol": "Df",
+      "name": "Defensive Fortification",
+      "short_description": "Strengthen structures for defense."
+    },
+    {
+      "symbol": "Bp",
+      "name": "Blueprints",
+      "short_description": "Pre-designed construction plans."
+    }
+  ]
 }

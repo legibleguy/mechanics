@@ -1,9 +1,29 @@
 {
-    "index": [
-        {
-            "symbol": "DcS",
-            "name": "Dynamic Camera Shake",
-            "short_description": "Shake the camera based on in-game events like explosions or impact"
-        }
-    ]
+  "index": [
+    {
+      "symbol": "Fc",
+      "name": "Free Camera",
+      "short_description": "Independent camera control."
+    },
+    {
+      "symbol": "Lo",
+      "name": "Lock-On",
+      "short_description": "Camera focuses on combat targets."
+    },
+    {
+      "symbol": "Cc",
+      "name": "Cinematic Camera",
+      "short_description": "Cinematic camera angles and movements."
+    },
+    {
+      "symbol": "Fp",
+      "name": "First-Person View",
+      "short_description": "Immersive first-person perspective."
+    },
+    {
+      "symbol": "Os",
+      "name": "Over-the-Shoulder",
+      "short_description": "Camera positioned over the shoulder."
+    }
+  ]
 }

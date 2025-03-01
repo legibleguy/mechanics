@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Gc
+  name: In-Game Chat
+  category: Social
+  long_description: Allows real-time text communication between players. Essential
+    in multiplayer titles like CS:GO.
+  short_description: Real-time text communication.
+  solved_problems: Enables coordination and social interaction.
+  examples:
+  - 'CS:GO: In-game chat for team strategy.'
+  - Other multiplayer games integrate chat systems.

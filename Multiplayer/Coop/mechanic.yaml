@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Coop
+  name: Co-op Play
+  category: Multiplayer
+  long_description: Enables cooperative gameplay, allowing multiple players to work
+    together. Seen in Left 4 Dead.
+  short_description: Play cooperatively with others.
+  solved_problems: Fosters teamwork and shared experiences.
+  examples:
+  - 'Left 4 Dead: Cooperative survival gameplay.'
+  - Other co-op games emphasize teamwork.

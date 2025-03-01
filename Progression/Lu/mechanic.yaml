@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Lu
+  name: Leveling Up
+  category: Progression
+  long_description: Progresses characters through levels based on accumulated experience.
+    Central to Final Fantasy.
+  short_description: Advance levels to enhance abilities.
+  solved_problems: Provides continuous character growth.
+  examples:
+  - 'Final Fantasy: Leveling up through battles.'
+  - Many RPGs feature level progression.

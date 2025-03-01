@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Os
+  name: Over-the-Shoulder
+  category: Camera
+  long_description: Positions the camera behind the character, balancing perspective
+    and immersion. Widely used in Gears of War.
+  short_description: Camera positioned over the shoulder.
+  solved_problems: Offers a balanced view for combat and exploration.
+  examples:
+  - 'Gears of War: Over-the-shoulder camera for cover-based shooting.'
+  - Other third-person shooters use this mechanic.

@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Dm",
+      "name": "Dynamic Music",
+      "short_description": "Music adapts to gameplay."
+    },
+    {
+      "symbol": "Pa",
+      "name": "Positional Audio",
+      "short_description": "Spatial sound for immersive gameplay."
+    },
+    {
+      "symbol": "As",
+      "name": "Adaptive Soundtrack",
+      "short_description": "Soundtrack adapts to game intensity."
+    },
+    {
+      "symbol": "Vc",
+      "name": "Voice Commands",
+      "short_description": "Use voice to control in-game actions."
+    },
+    {
+      "symbol": "Aa",
+      "name": "Ambient Audio",
+      "short_description": "Immersive environmental soundscapes."
+    }
+  ]
 }

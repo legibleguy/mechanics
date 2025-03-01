@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Sa
+  name: Secret Areas
+  category: Exploration
+  long_description: Hidden zones or easter eggs that reward curious players. Seen
+    in Metroid Prime.
+  short_description: Hidden areas with rewards.
+  solved_problems: Adds depth and replayability.
+  examples:
+  - 'Metroid Prime: Secret rooms and hidden paths.'
+  - Many games include easter eggs and hidden zones.

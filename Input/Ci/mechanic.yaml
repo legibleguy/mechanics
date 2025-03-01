@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ci
+  name: Combo Input
+  category: Input
+  long_description: Requires precise sequences of button presses to execute special
+    moves. Prominent in fighting games like Street Fighter.
+  short_description: Execute special moves with button sequences.
+  solved_problems: Rewards skillful and precise input.
+  examples:
+  - 'Street Fighter: Complex combos for special moves.'
+  - Other fighting games rely on combo inputs.

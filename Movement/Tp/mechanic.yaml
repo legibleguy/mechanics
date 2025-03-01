@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Tp
+  name: Teleport
+  category: Movement
+  long_description: Instantly transports the player from one location to another.
+    Utilized in Dishonored's Blink ability.
+  short_description: Instantaneous relocation.
+  solved_problems: Reduces travel time and adds strategic depth.
+  examples:
+  - 'Dishonored: Teleportation for rapid repositioning.'
+  - Other games incorporate teleport mechanics.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Gl
+  name: Glide
+  category: Movement
+  long_description: Enables players to slow their descent by gliding through the air.
+    Seen in games like Just Cause.
+  short_description: Slow descent by gliding.
+  solved_problems: Offers controlled aerial movement.
+  examples:
+  - 'Just Cause: Gliding to traverse large gaps.'
+  - Open-world games sometimes include glide mechanics.

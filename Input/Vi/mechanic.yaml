@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Vi
+  name: Voice Input
+  category: Input
+  long_description: Allows players to execute commands using their voice. Featured
+    in Hey You, Pikachu!
+  short_description: Control gameplay with voice commands.
+  solved_problems: Offers an alternative, hands-free input method.
+  examples:
+  - 'Hey You, Pikachu!: Uses voice commands for interaction.'
+  - Some modern games incorporate voice input.

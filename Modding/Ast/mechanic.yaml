@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ast
+  name: Asset Import
+  category: Modding
+  long_description: Permits players to import custom assets such as models and textures.
+    Popularized by Garry's Mod.
+  short_description: Import custom models and textures.
+  solved_problems: Expands visual variety and personalization.
+  examples:
+  - 'Garry''s Mod: Importing assets for unique creations.'
+  - Community mods often rely on asset import capabilities.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Owm
+  name: Open World Map
+  category: World
+  long_description: Provides a detailed map of a vast, open game world. Featured in
+    Skyrim.
+  short_description: Detailed map of a large world.
+  solved_problems: Helps players navigate expansive environments.
+  examples:
+  - 'Skyrim: Open world map for exploration.'
+  - Other RPGs provide detailed world maps.

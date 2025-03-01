@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "UgC",
+      "name": "User-Generated Content",
+      "short_description": "Create and share custom content."
+    },
+    {
+      "symbol": "ScE",
+      "name": "Script Extensibility",
+      "short_description": "Extend game functionality with custom scripts."
+    },
+    {
+      "symbol": "Ast",
+      "name": "Asset Import",
+      "short_description": "Import custom models and textures."
+    },
+    {
+      "symbol": "Cst",
+      "name": "Customization Tools",
+      "short_description": "Tools for in-game customization."
+    },
+    {
+      "symbol": "Wi",
+      "name": "Workshop Integration",
+      "short_description": "Easy access to community mods."
+    }
+  ]
 }

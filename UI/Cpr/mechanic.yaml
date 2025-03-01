@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Cpr
+  name: Contextual Prompts
+  category: UI
+  long_description: 'Displays on-screen prompts based on the player''s context or
+    environment. Common in The Legend of Zelda: Breath of the Wild.'
+  short_description: On-screen action prompts.
+  solved_problems: Guides player actions without clutter.
+  examples:
+  - 'Breath of the Wild: Contextual prompts for interactions.'
+  - Many adventure games feature similar UI cues.

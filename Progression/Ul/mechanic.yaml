@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Ul
+  name: Unlockables
+  category: Progression
+  long_description: Provides additional content or abilities that are unlocked through
+    progression. Seen in Call of Duty.
+  short_description: Additional content unlocked over time.
+  solved_problems: Encourages continued play to reveal rewards.
+  examples:
+  - 'Call of Duty: Unlockables such as weapons and skins.'
+  - Other titles reward players with unlockable content.

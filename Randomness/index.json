@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Ld",
+      "name": "Loot Drops",
+      "short_description": "Random item rewards."
+    },
+    {
+      "symbol": "Pg",
+      "name": "Procedural Generation",
+      "short_description": "Algorithmic generation of content."
+    },
+    {
+      "symbol": "Ch",
+      "name": "Critical Hits",
+      "short_description": "Chance-based extra damage."
+    },
+    {
+      "symbol": "Dr",
+      "name": "Dice Roll",
+      "short_description": "Random outcome determination."
+    },
+    {
+      "symbol": "Re",
+      "name": "Random Events",
+      "short_description": "Unexpected in-game events."
+    }
+  ]
 }

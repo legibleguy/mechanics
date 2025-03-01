@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Fc
+  name: Free Camera
+  category: Camera
+  long_description: Allows players to move the camera independently of the character,
+    providing full environmental views. Seen in GTA V.
+  short_description: Independent camera control.
+  solved_problems: Enhances exploration and scene capture.
+  examples:
+  - 'GTA V: Free camera for photo modes.'
+  - Other open-world games offer similar features.

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Wi
+  name: Workshop Integration
+  category: Modding
+  long_description: Integrates external mod repositories to simplify content sharing.
+    Common in Minecraft.
+  short_description: Easy access to community mods.
+  solved_problems: Streamlines mod discovery and installation.
+  examples:
+  - 'Minecraft: Steam Workshop for mod sharing.'
+  - Other moddable games support workshop integration.

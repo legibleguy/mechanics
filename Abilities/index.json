@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "InV",
+      "name": "Invisibility",
+      "short_description": "Become unseen to stealth past enemies."
+    },
+    {
+      "symbol": "Bt",
+      "name": "Bullet Time",
+      "short_description": "Slow time for precision and evasion."
+    },
+    {
+      "symbol": "Rg",
+      "name": "Regeneration",
+      "short_description": "Health regenerates over time."
+    },
+    {
+      "symbol": "Sh",
+      "name": "Shield",
+      "short_description": "Temporary damage absorption."
+    },
+    {
+      "symbol": "Rm",
+      "name": "Rage Mode",
+      "short_description": "Temporary power surge in combat."
+    }
+  ]
 }

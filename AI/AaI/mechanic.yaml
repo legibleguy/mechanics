@@ -1,0 +1,11 @@
+mechanic:
+  symbol: AaI
+  name: Adaptive AI
+  category: AI
+  long_description: Adjusts enemy behavior dynamically based on player performance.
+    Notable in games like Left 4 Dead.
+  short_description: Dynamic adjustment of AI difficulty.
+  solved_problems: Keeps gameplay challenging by adapting to player actions.
+  examples:
+  - 'Left 4 Dead: AI changes tactics based on player skill.'
+  - Other titles use adaptive AI to balance gameplay.

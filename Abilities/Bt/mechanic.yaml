@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Bt
+  name: Bullet Time
+  category: Abilities
+  long_description: Slows down time to allow precise targeting and evasion, adding
+    cinematic flair. Notable in Max Payne and F.E.A.R.
+  short_description: Slow time for precision and evasion.
+  solved_problems: Enables players to manage overwhelming situations with precision.
+  examples:
+  - 'Max Payne: Allows players to dodge bullets.'
+  - 'F.E.A.R.: Enhances tactical combat moments.'

@@ -1,0 +1,11 @@
+mechanic:
+  symbol: DEc
+  name: Dynamic Ecosystem
+  category: World
+  long_description: Simulates a living world where flora and fauna interact dynamically.
+    Prominent in Far Cry.
+  short_description: Living, responsive ecosystems.
+  solved_problems: Creates a believable, evolving game environment.
+  examples:
+  - 'Far Cry: Wildlife and environment interact dynamically.'
+  - Other open-world games feature dynamic ecosystems.

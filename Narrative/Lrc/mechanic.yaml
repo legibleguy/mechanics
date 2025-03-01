@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Lrc
+  name: Lore Collection
+  category: Narrative
+  long_description: "Encourages players to gather scattered lore items to piece together\
+    \ the game\u2019s history. Common in Dark Souls."
+  short_description: Collect lore to uncover history.
+  solved_problems: Deepens player engagement with the game world.
+  examples:
+  - 'Dark Souls: Lore scattered throughout the world.'
+  - Other games use collectibles for lore discovery.

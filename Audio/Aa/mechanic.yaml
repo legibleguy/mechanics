@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Aa
+  name: Ambient Audio
+  category: Audio
+  long_description: Creates a background soundscape that enhances the game's atmosphere.
+    Found in games like Limbo.
+  short_description: Immersive environmental soundscapes.
+  solved_problems: Adds depth to the game world through sound.
+  examples:
+  - 'Limbo: Uses ambient audio to build tension.'
+  - Other indie games focus on atmospheric sound.

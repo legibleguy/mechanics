@@ -1,3 +1,29 @@
 {
-    "index": []
+  "index": [
+    {
+      "symbol": "Fl",
+      "name": "Friend Lists",
+      "short_description": "Manage your in-game friends."
+    },
+    {
+      "symbol": "Gs",
+      "name": "Guild Systems",
+      "short_description": "Form and manage guilds."
+    },
+    {
+      "symbol": "Gc",
+      "name": "In-Game Chat",
+      "short_description": "Real-time text communication."
+    },
+    {
+      "symbol": "Pt",
+      "name": "Player Trading",
+      "short_description": "Trade items with other players."
+    },
+    {
+      "symbol": "Shb",
+      "name": "Social Hubs",
+      "short_description": "Central locations for player interaction."
+    }
+  ]
 }

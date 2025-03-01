@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dsc
+  name: Discovery
+  category: Exploration
+  long_description: Encourages exploration by rewarding players with hidden locations
+    and secrets. Common in No Man's Sky.
+  short_description: Uncover hidden locations and secrets.
+  solved_problems: Incentivizes thorough exploration of the game world.
+  examples:
+  - 'No Man''s Sky: Discover new planets and anomalies.'
+  - Exploration games reward player curiosity.

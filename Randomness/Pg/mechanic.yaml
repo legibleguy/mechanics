@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Pg
+  name: Procedural Generation
+  category: Randomness
+  long_description: Creates game content algorithmically to ensure varied experiences.
+    Central to No Man's Sky.
+  short_description: Algorithmic generation of content.
+  solved_problems: Offers endless variety without manual design.
+  examples:
+  - 'No Man''s Sky: Entire universes generated procedurally.'
+  - Roguelikes often use procedural generation.

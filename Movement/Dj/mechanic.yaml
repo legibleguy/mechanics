@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Dj
+  name: Double Jump
+  category: Movement
+  long_description: Allows players to jump a second time while airborne. Iconic in
+    platformers like Super Mario Odyssey.
+  short_description: Perform a second jump mid-air.
+  solved_problems: Adds vertical mobility and dynamic movement.
+  examples:
+  - 'Super Mario Odyssey: Double jump enhances platforming.'
+  - Other platformers incorporate double jump mechanics.

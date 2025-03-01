@@ -1,0 +1,11 @@
+mechanic:
+  symbol: IgC
+  name: In-Game Currency
+  category: Economy
+  long_description: Introduces a system of currency for purchasing goods and services.
+    Central to GTA V.
+  short_description: Currency for in-game transactions.
+  solved_problems: Facilitates trade and economic balance.
+  examples:
+  - 'GTA V: Money used for vehicles and properties.'
+  - Many open-world games feature in-game currencies.

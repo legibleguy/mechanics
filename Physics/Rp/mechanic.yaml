@@ -1,0 +1,11 @@
+mechanic:
+  symbol: Rp
+  name: Ragdoll Physics
+  category: Physics
+  long_description: Simulates realistic body movements upon impact, adding dynamic
+    visuals. Prominent in Grand Theft Auto IV.
+  short_description: Realistic physics-based body movement.
+  solved_problems: Enhances visual realism in character interactions.
+  examples:
+  - 'GTA IV: Ragdoll effects upon collisions.'
+  - Many modern games use ragdoll physics.
