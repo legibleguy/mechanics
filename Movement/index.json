@@ -1,9 +1,9 @@
 {
 	"index": [
-	{
-		"symbol": "DbJ",
-		"name": "Double Jump",
-		"short_description": "Jump twice to make movement more interesting"
-	}
+		{
+			"symbol": "DbJ",
+			"name": "Double Jump",
+			"short_description": "Jump twice to make movement more interesting"
+		}
 	]
 }
