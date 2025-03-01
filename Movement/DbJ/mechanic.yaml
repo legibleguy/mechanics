@@ -4,4 +4,6 @@ mechanic:
   category: "Movement"
 
   short_description: "Jump twice to make movement more interesting"
-  long_description: "Yeah."
+  solved_problems: "Yep."
+  examples:
+    - "Definitely, dude."
