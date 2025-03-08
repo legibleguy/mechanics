@@ -2,9 +2,13 @@ mechanic:
   symbol: Pf
   name: Pathfinding
   category: AI
-  long_description: Enables non-player characters (NPCs) to navigate complex environments
-    efficiently. Crucial in strategy and simulation games like Age of Empires.
-  short_description: Efficient NPC navigation.
+  long_description: |
+    Pathfinding allows an NPC to move from one point to another on complex terrain. It employs an algorithm to decide a route of nodes to take. The nodes don't always need to be physical objects in-game. The most common algorithm for this is the A* algorithm, but D* (for dynamic environments) and Dijkstra's algorithm (for generalized searching for a target node) are good choices. 
+    
+    In general, pathfinding requires an AI to find the shortest path between a start and an end point connected in some sort of graph, like an underground subway or metro. Each station is a node. Although the individual algorithms vary, most of them just start from one point and recursively search each connected node until the target node is found. It then backtracks and looks for the path is took to get to that node. This path is the shortest distance, which your AI entities can use.
+    
+    You might consider allowing the algorithm to optimise node-searching based on the distance to the target node, like the A* algorithm. This is far more efficient.
+  short_description: NPC navigation between different points.
   solved_problems: Improves NPC movement in complex maps.
   examples:
   - 'Age of Empires: NPCs navigate battlefields using pathfinding algorithms.'

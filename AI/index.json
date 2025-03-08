@@ -3,12 +3,12 @@
     {
       "symbol": "Pf",
       "name": "Pathfinding",
-      "short_description": "Efficient NPC navigation."
+      "short_description": "NPC navigation between different points."
     },
     {
       "symbol": "Flk",
       "name": "Flocking",
-      "short_description": "Coordinated group movement."
+      "short_description": "AI entities coordinate in flocks."
     },
     {
       "symbol": "CvR",
@@ -18,7 +18,7 @@
     {
       "symbol": "AaI",
       "name": "Adaptive AI",
-      "short_description": "Dynamic adjustment of AI difficulty."
+      "short_description": "Dynamic adjustment of AI behaviour & difficulty."
     },
     {
       "symbol": "Per",

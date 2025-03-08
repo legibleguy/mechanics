@@ -4,7 +4,7 @@ mechanic:
   category: AI
   long_description: Simulates group behavior by having multiple entities move in a
     coordinated manner. Seen in games like Battlefield and various simulators.
-  short_description: Coordinated group movement.
+  short_description: AI entities coordinate in flocks.
   solved_problems: Creates realistic crowd or swarm behaviors.
   examples:
   - 'Battlefield: Units sometimes move in coordinated groups.'
