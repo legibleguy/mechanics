@@ -13,3 +13,4 @@ mechanic:
   examples:
   - 'Age of Empires: NPCs navigate battlefields using pathfinding algorithms.'
   - Real-time strategy games use similar systems.
+  isHumanWritten: true

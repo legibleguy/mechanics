@@ -17,8 +17,8 @@ Mechanics are stored in the following (highly inefficient but easy to write) way
         - Category2
         - - Symbol3
             -   - mechanic.yaml
-            - Symbol4
-              - - mechanic.yaml
+          - Symbol4
+            -   - mechanic.yaml
 
   So to create a new mechanic:
   1. Fork this repository. If you're not sure what that means, read up on a quick guide on how collaboration works on Github.
