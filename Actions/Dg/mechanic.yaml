@@ -2,10 +2,13 @@ mechanic:
   symbol: Dg
   name: Dodge
   category: Actions
-  long_description: Enables quick evasion maneuvers to avoid attacks. Widely used
-    in games like Dark Souls and Assassin's Creed.
+  long_description: |
+    Dodging allows players to evade incoming attacks by quickly moving out of harm’s way. It is commonly executed as a roll, dash, or side-step, depending on the game’s movement system. The dodge mechanic is typically tied to stamina or cooldowns to prevent players from overusing it. 
+    
+    Games like Dark Souls rely on dodging as a core defensive mechanic, where mastering invincibility frames (i-frames) is crucial for survival. Assassin’s Creed, on the other hand, uses dodging for quick combat maneuvers, letting players avoid attacks and counter in fluid motion. Different implementations of dodging can balance between accessibility and precision-based skill expression.
   short_description: Quick evasion to avoid attacks.
-  solved_problems: Helps players evade enemy strikes.
+  solved_problems: |
+     - Stale combat: When combat in your game boils down to repeatedly attacking the enemy, it can get boring. A Dodge action adds a new dimension to combat, and usually becomes as important to gameplay as your Attack action.
   examples:
-  - 'Dark Souls: Rolling dodge to avoid enemy hits.'
-  - 'Assassin''s Creed: Agile dodging during combat.'
+  - 'Dark Souls: Rolling dodge to avoid enemy hits, requiring precise timing and stamina management.'
+  - Assassin's Creed: Agile dodging in close combat, allowing fluid enemy evasion and counterattacks.

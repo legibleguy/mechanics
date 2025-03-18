@@ -2,10 +2,13 @@ mechanic:
   symbol: Blk
   name: Block
   category: Actions
-  long_description: 'Allows players to defend against incoming attacks using a shield
-    or weapon. Seen in titles like Batman: Arkham series.'
+  long_description: |
+    Blocking allows players to defend against incoming attacks using a shield, weapon, or other defensive tool. When a block is performed, it typically reduces or nullifies damage from an incoming strike, depending on the game’s mechanics. Some games allow perfect blocks, which negate all damage, while others may implement chip damage where a fraction of the attack still gets through. 
+    
+    The effectiveness of blocking varies by game design. In action-heavy games like the Batman: Arkham series, blocking is fluid and intuitive, allowing players to seamlessly counterattack. In more tactical combat systems, such as those found in fighting games, blocking may be tied to directional input or frame-perfect timing. Shields, weapons, or even parries can all be used to execute a block, making it a fundamental part of defensive play.
   short_description: Defensive maneuver to mitigate damage.
-  solved_problems: Reduces damage from enemy attacks.
+  solved_problems: |
+    - Stale combat: When combat in your game boils down to repeatedly attacking the enemy, it can get boring. A Block action adds a new dimension to combat, and usually becomes as important to gameplay as your Attack action.
   examples:
-  - 'Batman: Arkham series: Blocking enemy strikes with gadgets.'
-  - Various fighting games incorporate blocking mechanics.
+  - 'Batman: Arkham series: Blocking enemy strikes with gadgets and counters.'
+  - 'Street Fighter series: High and low blocks to counter various attacks.'

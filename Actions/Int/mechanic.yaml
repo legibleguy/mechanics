@@ -2,10 +2,12 @@ mechanic:
   symbol: Int
   name: Interact
   category: Actions
-  long_description: Context-sensitive actions that allow players to engage with the
-    environment. Found in open-world games like GTA V and Red Dead Redemption.
+  long_description: |
+    Interaction mechanics allow players to engage with objects, NPCs, and the environment in meaningful ways. This can include opening doors, talking to characters, picking up items, and solving puzzles. In many games, interaction is context-sensitive, meaning different actions become available depending on the situation. 
+    
+    Open-world games like Grand Theft Auto V and Red Dead Redemption rely heavily on interaction systems to create immersive environments. From looting bodies to petting animals, these mechanics bring the world to life. Some games simplify interactions with a single-button prompt, while others use complex UI systems to offer a variety of contextual choices.
   short_description: Contextual actions for interacting with the world.
-  solved_problems: Simplifies complex interactions into intuitive actions.
+  solved_problems: null
   examples:
-  - 'GTA V: Interaction with vehicles and NPCs.'
-  - 'Red Dead Redemption: Contextual interactions in the environment.'
+  - 'GTA V: Interacting with vehicles, NPCs, and objects in an open-world setting.'
+  - 'Red Dead Redemption: Contextual interactions such as looting, greeting NPCs, and performing small immersive actions.'
