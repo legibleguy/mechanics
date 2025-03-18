@@ -2,10 +2,13 @@ mechanic:
   symbol: Sh
   name: Shield
   category: Abilities
-  long_description: Provides temporary protection by absorbing damage. Prominent in
-    games like Halo and Destiny.
+  long_description: |
+    A Shield is a protective barrier that absorbs damage before health is affected. It may be a regenerating energy shield, a temporary power-up, or an item that blocks attacks. Shields often have separate mechanics from health, such as regenerating over time or breaking under sustained damage.
+    
+    Some shields block only a percentage of damage, while others negate all damage until depleted. Advanced implementations include directional blocking, parrying mechanics, or counterattacks when the shield breaks. Some games implement stagger mechanics, where excessive damage to a shield knocks the player back or stuns them, encouraging active defense rather than passive turtling.
   short_description: Temporary damage absorption.
-  solved_problems: Mitigates damage during critical combat moments.
+  solved_problems: |
+   - Difficulty spikes: Some players might find certain combat scenarios challenging. Adding a shield system helps struggling players negate some damage, at no cost to players who don't need the shield system.
   examples:
-  - 'Halo: Energy shields absorb enemy fire.'
-  - 'Destiny: Shields offer extra defense in combat.'
+  - 'Halo: Energy shields regenerate after avoiding damage for a few seconds. This allows players to recover but prevents constant tanking of damage.'
+  - 'Dark Souls: Physical shields block melee attacks, while magic shields counter spells. The stamina cost of blocking forces strategic usage.'

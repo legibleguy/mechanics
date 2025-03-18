@@ -2,10 +2,14 @@ mechanic:
   symbol: Rm
   name: Rage Mode
   category: Abilities
-  long_description: Boosts player abilities temporarily under high stress or damage,
-    common in action-adventure games like God of War.
+  long_description: |
+    Rage Mode grants a temporary power boost, increasing damage, attack speed, or resilience. It is typically activated by filling a "rage meter" through combat actions such as dealing or receiving damage. Once activated, Rage Mode may also grant invincibility, special abilities, or a dramatic visual effect.
+    
+    Some games balance this by making the player lose control, forcing reckless behavior, or applying a debuff after the effect ends. Others require managing rage as a resource to avoid wasted activation. Variants of Rage Mode can include trade-offs, such as increased power at the cost of defensive capabilities, pushing players into high-risk, high-reward combat scenarios.
   short_description: Temporary power surge in combat.
-  solved_problems: Allows a comeback mechanic when players are overwhelmed.
+  solved_problems: |
+    - Passive combat strategies: Some players avoid risk in combat, leading to slower gameplay. Rage Mode incentivizes aggressive playstyles by rewarding players for engaging in fights.
+    - Difficulty spikes in combat: Tough encounters can feel overwhelming. By giving players a way to temporarily increase their power, Rage Mode provides an emergency tool to turn the tide of battle for players who find intense sequences more challenging.
   examples:
-  - 'God of War: Rage mode enhances strength and speed.'
-  - 'Darksiders: Similar mechanics increase damage output under pressure.'
+  - 'God of War: Kratos enters Spartan Rage, increasing damage and health regeneration. This makes battles feel intense and cinematic, reinforcing Kratos’ power.'
+  - 'Doom Eternal: Berserk power-up grants one-hit melee kills for a short time. This encourages aggressive movement and combat flow, fitting the game’s fast-paced style.'

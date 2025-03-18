@@ -2,10 +2,14 @@ mechanic:
   symbol: Bt
   name: Bullet Time
   category: Abilities
-  long_description: Slows down time to allow precise targeting and evasion, adding
-    cinematic flair. Notable in Max Payne and F.E.A.R.
+  long_description: |
+    Bullet Time is a mechanic that slows down the game world while allowing the player to react in real time. It enhances precision in high-speed scenarios, such as dodging bullets or aiming at targets. The implementation typically involves time scaling, where the game engine reduces the global time multiplier but keeps certain player-controlled actions responsive.
+    
+    Bullet Time is often accompanied by visual effects like motion blur, desaturation, or streaking light to emphasize the slowed-down perception. Some implementations tie it to a resource that depletes over time, limiting its use. Others activate it dynamically during high-tension moments, such as dodging an incoming projectile at the last second. Some variations of Bullet Time may apply different speed reductions based on the type of action being performed, such as reducing the effect on enemy movement but maintaining slow motion for aiming mechanics.
   short_description: Slow time for precision and evasion.
-  solved_problems: Enables players to manage overwhelming situations with precision.
+  solved_problems: |
+    - Overwhelming enemy speed: In fast-paced action games, enemy attacks can come too quickly for players to react, making gameplay frustrating. Bullet Time gives players more room to assess the situation, aim more precisely, and make strategic moves, preventing gameplay from becoming overly punishing.
+
   examples:
-  - 'Max Payne: Allows players to dodge bullets.'
-  - 'F.E.A.R.: Enhances tactical combat moments.'
+  - 'Max Payne: Introduced Bullet Time as a core mechanic, letting players slow down time to aim and dodge bullets more effectively. The system was integral to the game’s noir action style, giving players a sense of power and control in shootouts.'
+  - 'Red Dead Redemption 2: "Dead Eye" mode highlights enemies and slows time for accurate shots. The mechanic adds a layer of strategy in gunfights, allowing players to mark multiple enemies before firing, making combat feel more like a deliberate standoff rather than a reaction-based shootout.'

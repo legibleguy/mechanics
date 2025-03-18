@@ -2,10 +2,13 @@ mechanic:
   symbol: Rg
   name: Regeneration
   category: Abilities
-  long_description: Automatically restores health over time, encouraging aggressive
-    play with a safety net. Seen in Halo and Bioshock.
+  long_description: |
+    Regeneration gradually restores a character’s health over time without requiring external healing items. It is often used to maintain pacing in action games by reducing downtime between encounters. Regeneration can be passive (always active) or triggered by conditions such as remaining stationary, avoiding damage, or consuming a resource.
+    
+    Some implementations use partial regeneration, where only a portion of health recovers, requiring health packs for full restoration. Others use regeneration delays or diminishing returns to prevent abuse. In multiplayer games, regeneration mechanics may be adjusted to avoid making combat feel drawn out, balancing healing with damage output to ensure engagements remain dynamic and fair.
   short_description: Health regenerates over time.
-  solved_problems: Reduces downtime and promotes continuous engagement.
+  solved_problems: |
+    - Unhinged kill sprees: Players sometimes go out of their way to enter dangerous scenarios and lose health, since they can just chow down a health pack. This is great in some games, but you might want to curve such behaviour by limiting health packs and instead regenerating player health slowly over time. You can add some extra constraints too, like regeneration only kicking in after having gone some time without taking damage. This can be used to encourage more conservative gameplay.
   examples:
-  - 'Halo: Shields regenerate after taking damage.'
-  - 'Bioshock: Health regeneration mechanics during gameplay.'
+  - 'Halo: Shields regenerate automatically after a delay, while health requires medkits in older titles. This system balances survivability by rewarding tactical retreats while keeping damage meaningful.'
+  - 'The Witcher 3: Geralt regenerates health slowly but can enhance it with food and potions. This encourages players to manage their resources and prepare for encounters rather than relying on passive healing.'
