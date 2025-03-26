@@ -31,3 +31,8 @@ Mechanics are stored in the following (highly inefficient but easy to write) way
 ## Exporting Data
 You can run `generate_mechanics_table.py` to get a markdown representation of the entire data for further processing. The properties of the table are:
 Name, Symbol, Category, Short Description, Long Description, Examples, Solved Problems.
+
+## Evaluate time to implement each mechanic
+You can use a local llm via ollama to generate an estimates on how much time each mechanic may take to implement
+Run `evaluate_time_to_implement.py` to generate a new .csv with these estimates at the end of each row
+Keep in mind that these are AI generate and you should probably check if these estimates make sense. We ask the model to explain the reasoning behind each estimate which should help with the overall accuracy but it is still not gurarnteed to be perfect.
